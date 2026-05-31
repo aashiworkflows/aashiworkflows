@@ -46,9 +46,8 @@ That's not a support function. That's revenue leadership.
 
 ## 🚀 My best work
 
-**🌏 India's first international destination wedding deal**  
-Closed ₹1.4Cr for a Bali wedding — structured end-to-end as a custom partnership.  
-Set a new benchmark for what the business thought was possible.
+**🌏 Booked Meragi's first-ever international destination wedding deal** 
+Closed ₹1.4Cr for a Bali wedding — Meragi's first-ever international deal, structured end-to-end as a custom partnership. Set a new high-ticket benchmark for the business.
 
 **📈 133% quota, 6 months straight**  
 ₹1.6Cr across 37 accounts vs. ₹1.2Cr target. Not a one-quarter spike —  
