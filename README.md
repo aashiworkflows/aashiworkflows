@@ -1,10 +1,9 @@
-<!-- HEADER -->
+<!-- HEADER -->![Profile views](https://komarev.com/ghpvc/?username=aashiworkflows&color=blue&style=flat)
 <div align="center">
 
 # Hi, I'm Aashi 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aashi%20Gupta-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashi-gupta-95b3b7363/)
 [![Email](https://img.shields.io/badge/Email-aashi2247%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aashi2247@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=aashiworkflows&color=blue&style=flat)
 **Strategic Account Manager → chasing remote roles in B2B SaaS**
 
 I've spent 5+ years owning revenue — not just supporting it.  
