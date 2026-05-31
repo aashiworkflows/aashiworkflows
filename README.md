@@ -2,7 +2,7 @@
 <div align="center">
 
 # Hi, I'm Aashi 👋
-
+![Profile views](https://komarev.com/ghpvc/?username=aashiworkflows&color=blue&style=flat)
 **Strategic Account Manager → chasing remote roles in B2B SaaS**
 
 I've spent 5+ years owning revenue — not just supporting it.  
